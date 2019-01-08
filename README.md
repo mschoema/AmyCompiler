@@ -14,7 +14,7 @@ To run the code, you will need Java 8 running on your system and a build tool fo
 
 To run the compiled code, you will need to download nodejs [here](https://nodejs.org/en/download/).
 Make sure you have nodejs 8 or later by running  `nodejs --version`
-After you install, run `npm install deasync` at the directory you plan to run amyc, i.e. the toplevel directory of the compiler. 
+After you install, run `npm install deasync` AmyCompiler directory. 
 Make sure the wat2wasm executable is visible, i.e. it is in the system path or you are at the toplevel of the amyc directory.
 
 ### Running the code
