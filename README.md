@@ -38,7 +38,7 @@ Example Amy programs can be found under [examples](/examples/) and Amy libraries
 A few examples demonstrate the use of the added features:
 - [Arrays](/examples/Arrays.scala)
 - [Ranges](/examples/Ranges.scala)
-- [SciperLists](/examples/SciperLists.scala)
+- [SciperList](/examples/SciperList.scala)
 - [Dates](/examples/Dates.scala)
 
 ## Authors
