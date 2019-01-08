@@ -2,7 +2,7 @@
 
 Computer Language Processing Project
 
-This is a compiler for the [Amy language](http://lara.epfl.ch/w/cc18:amy_specification) with the addition of arrays and range types.
+This is a compiler for the [Amy language](http://lara.epfl.ch/w/cc18:amy_specification) with the addition of arrays and range types to the language.
 
 ## Getting Started
 
