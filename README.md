@@ -4,7 +4,7 @@ Computer Language Processing Project
 
 This is a compiler for the [Amy language](http://lara.epfl.ch/w/cc18:amy_specification) with the addition of arrays and range types to the language.
 
-A report of the final project can be found [here](Compiler_Construction_Project__Final_Report.pdf)
+A report of the final project can be found [here](report/Compiler_Construction_Project__Final_Report.pdf)
 
 ## Getting Started
 
@@ -34,6 +34,12 @@ To run the compiled code, simply write the following code in another teminal (no
 ### Example programs
 
 Example Amy programs can be found under [examples](/examples/) and Amy libraries used in some of these programs can be found under [library](/library/)
+
+A few examples demonstrate the use of the added features:
+- [Arrays](/examples/Arrays.scala)
+- [Ranges](/examples/Ranges.scala)
+- [SciperLists](/examples/SciperLists.scala)
+- [Dates](/examples/Dates.scala)
 
 ## Authors
 
